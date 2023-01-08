@@ -127,7 +127,7 @@ const twentyLeaguesOut = {
 
 
 
-/* Test Case 3 Input Object*/
+/* Test Case 2 Input Object*/
 const capSenCase = [
     {
         "Title": "Twenty Thousand Leagues Under the Sea",
@@ -153,7 +153,7 @@ const capSenCase = [
     }
 ]
 
-/* Test Case 3 Output Object */
+/* Test Case 2 Output Object */
 const capSenCaseOut = {
     "SearchTerm": "The",
     "Results": [
